@@ -1,0 +1,6 @@
+# Only box score PNGs in images/ and this repo's README belong here.
+*
+!.gitignore
+!README.md
+!images/
+!images/*.png
